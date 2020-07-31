@@ -7,4 +7,5 @@
 A web developer in @antgroup, @alipay.
 
 - 🏗 Focus on Web
+- 💬 WeChat: [*****](kylinJCL)
 - 📫 Ping me by [Email](mailto:chaolin.jcl@antgroup.com)
