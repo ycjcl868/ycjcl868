@@ -2,6 +2,7 @@
 
 A web developer in @antgroup, @alipay.
 
+- 🎨 Blog https://nodego.top/
 - 🏗 Focus on Web
 - 💬 WeChat: [*****](kylinJCL)
 - 📫 Ping me by [Email](mailto:chaolin.jcl@antgroup.com)
