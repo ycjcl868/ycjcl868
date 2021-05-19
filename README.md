@@ -4,5 +4,6 @@ a Web Developer in @antgroup, @alipay.
 
 - 🎨 Blog https://nodego.top/
 - 🏗 Focus on Web
+  - TypeScript, Node.js, Python(Security/Quote), Golang
 - 💬 WeChat: [*****](kylinJCL)
 - 📫 Ping me by [Email](mailto:chaolinjin@gmail.com)
