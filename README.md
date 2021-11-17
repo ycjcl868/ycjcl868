@@ -2,8 +2,9 @@
 
 a Web Developer.
 
-- 🎨 Blog https://nodego.top/
+- 🎨 Blog https://www.rustc.cloud/
 - 🏗 Focus on Web
   - TypeScript, Node.js, Python(Security/Quant), Golang
+  - learning Rust.
 - 💬 WeChat: [*****](kylinJCL)
 - 📫 Ping me by [Email](mailto:chaolinjin@gmail.com)
