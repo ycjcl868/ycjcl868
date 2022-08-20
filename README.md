@@ -13,6 +13,5 @@ a Web Developer.
 
 - 🎨 Blog https://www.rustc.cloud/
 - 🏗 Focus on Web
-  - TypeScript, Node.js, Python(Security/Quant), Golang
-  - learning Rust.
+  - Golang, Node.js, Python(Security/Quant)
 - 📫 Ping me by [Email](mailto:chaolinjin@gmail.com)
