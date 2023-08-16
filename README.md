@@ -10,5 +10,6 @@ a Web Developer.
 
 - 🎨 Blog https://www.rustc.cloud/
 - 🏗 Focus on Web
+  - LangChain, LLMs
   - Golang, Node.js, Python(Security/Quant)
 - 📫 Ping me by [Email](mailto:chaolinjin@gmail.com)
