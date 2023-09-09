@@ -6,10 +6,11 @@
 </p>
 
 
-a Web Developer.
+a Developer.
 
 - 🎨 Blog https://www.rustc.cloud/
-- 🏗 Focus on Web
+- 🏗 Focus on
   - LangChain, LLMs
-  - Golang, Node.js, Python(Security/Quant)
+  - Golang, Node.js, Python(AI/Security/Quant)
+  - React, Front-end frameworks
 - 📫 Ping me by [Email](mailto:chaolinjin@gmail.com)
