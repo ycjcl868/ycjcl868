@@ -10,7 +10,7 @@ a Developer.
 
 - 🎨 Blog https://www.rustc.cloud/
 - 🏗 Focus on
-  - LangChain, LLMs
+  - GPTs, LangChain, LLMs
   - Golang, Node.js, Python(AI/Security/Quant)
   - React, Front-end frameworks
 - 📫 Ping me by [Email](mailto:chaolinjin@gmail.com)
