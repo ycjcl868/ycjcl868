@@ -6,7 +6,7 @@
 </p>
 
 
-a Developer.
+I am a developer.
 
 - 🎨 Blog https://www.rustc.cloud/
 - 🏗 Focus on
