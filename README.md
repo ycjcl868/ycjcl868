@@ -10,7 +10,6 @@ I am a developer.
 
 - 🎨 Blog https://www.rustc.cloud/
 - 🏗 Focus on
-  - AI Developer, RAG, LLMs
-  - Python(AI/Security/Quant), Node.js
-  - React, Front-end frameworks
+  - AI Infra Developer, LLMs
+  - Rust, Go, Python(Agent/Security/Quant), Node.js
 - 📫 Ping me by [Email](mailto:chaolinjin@gmail.com)
